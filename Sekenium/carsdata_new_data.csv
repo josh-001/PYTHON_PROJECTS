@@ -1,0 +1,593 @@
+,Brand,Model,Seating_Capacity,Body_Type,Variant_Number,Fuel_Type,Transmission,Available_Colors,On_Road_Pric,Delivery_Days,Location
+0,Tata,Nexon,5,SUV,1,Petrol,Manual,4,10.97,11,Bangalore
+1,Tata,Punch,5,SUV,1,Petrol,Manual,2,7.72,11,Bangalore
+2,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,4,8.25,11,Bangalore
+3,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,3,7.42,11,Bangalore
+4,Hyundai,Aura,5,Sedan,1,CNG,Manual,,9.30,11,Bangalore
+5,Tata,Altroz (2020-2025),5,Hatchback,1,Petrol,Manual,4,11.47,8,Bangalore
+6,Hyundai,Venue,5,SUV,1,Petrol,Manual,4,9.77,11,Bangalore
+7,Toyota,Glanza,5,Hatchback,1,Petrol,Manual,5,8.43,11,Bangalore
+8,Hyundai,Creta,5,SUV,1,Petrol,Manual,12,14.05,11,Bangalore
+9,Maruti Suzuki,Dzire,5,Sedan,1,Petrol,Manual,7,9.96,11,Bangalore
+10,Honda,City,5,Sedan,1,Petrol,Automatic,6,20.40,11,Bangalore
+11,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Manual,7,12.18,11,Bangalore
+12,Maruti Suzuki,Brezza,5,SUV,1,Petrol,Manual,5,10.88,11,Bangalore
+13,Maruti Suzuki,S-Presso,5,SUV,1,Petrol,Manual,7,7.01,11,Bangalore
+14,Mahindra,Scorpio-N,7,SUV,1,Petrol,Manual,3,17.77,11,Bangalore
+15,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,11.97,60,Bangalore
+16,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,15.21,11,Bangalore
+17,Maruti Suzuki,Ertiga,7,SUV,1,Petrol,Manual,6,11.01,70,Bangalore
+18,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,5,16.27,11,Bangalore
+19,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,6,16.09,11,Bangalore
+20,Toyota,Urban Cruiser Hyryder,5,SUV,1,Petrol,Manual,7,14.18,11,Bangalore
+21,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,37.19,00,Bangalore
+22,Skoda,Kushaq,5,SUV,1,Petrol,Manual,6,20.42,11,Bangalore
+23,Kia,Seltos,5,SUV,1,Petrol,Manual,7,14.02,11,Bangalore
+24,Kia,Sonet,5,SUV,1,Petrol,Manual,7,10.25,11,Bangalore
+25,Hyundai,Exter,5,SUV,1,Petrol,Manual,,7.70,11,Bangalore
+26,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,9.49,11,Bangalore
+27,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,32.36,90,Bangalore
+28,MG,Astor,5,SUV,1,Petrol,Manual,2,14.24,11,Bangalore
+29,MG,Gloster,7,SUV,1,Diesel,Automatic,4,51.29,30,Bangalore
+30,Toyota,Innova Hycross,7,SUV,1,Petrol,Automatic,7,25.07,20,Bangalore
+31,Hyundai,Verna,5,Sedan,1,Petrol,Manual,7,14.01,11,Bangalore
+32,Tata,Harrier,5,SUV,1,Diesel,Manual,4,28.22,8,Bangalore
+33,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,5,22.36,11,Bangalore
+34,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,18.62,11,Bangalore
+35,MG,Hector,5,SUV,1,Petrol,Automatic,3,22.11,11,Bangalore
+36,MG,Hector Plus,7,SUV,1,Petrol,Manual,4,23.82,11,Bangalore
+37,Toyota,Innova Crysta,8,SUV,1,Diesel,Manual,5,25.05,60,Bangalore
+38,Toyota,Rumion,7,SUV,1,Petrol,Manual,5,13.17,11,Bangalore
+39,Honda,Elevate,5,SUV,1,Petrol,Manual,7,15.94,11,Bangalore
+40,Volkswagen,Taigun,5,SUV,1,Petrol,Manual,6,14.84,45,Bangalore
+41,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,14.54,45,Bangalore
+42,Kia,Carens,7,SUV,1,Diesel,Manual,7,16.53,11,Bangalore
+43,Mahindra,XUV700,7,SUV,1,Petrol,Manual,5,18.37,11,Bangalore
+44,Skoda,Slavia,5,Sedan,1,Petrol,Automatic,6,20.83,11,Bangalore
+45,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,7.37,11,Bangalore
+46,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,7.18,11,Bangalore
+47,Mahindra,XUV 3XO,5,SUV,1,Petrol,Manual,7,11.62,11,Bangalore
+48,Maruti Suzuki,Alto K10,5,Hatchback,1,Petrol,Manual,7,6.76,11,Bangalore
+49,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,4,9.36,11,Bangalore
+50,MG,ZS EV,5,SUV,1,Electric,Automatic,3,19.29,11,Bangalore
+51,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,8.51,11,Bangalore
+52,Hyundai,Creta N Line,5,SUV,1,Petrol,Automatic,6,23.23,11,Bangalore
+53,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Automatic,9,9.38,11,Bangalore
+54,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,16.08,90,Bangalore
+55,Tata,Punch EV,5,SUV,1,Electric,Automatic,,10.91,11,Bangalore
+56,MG,Comet EV,4,Hatchback,1,Electric,Automatic,,8.08,11,Bangalore
+57,Maruti Suzuki,Eeco,5,Van,1,Petrol,Manual,5,7.26,11,Bangalore
+58,Hyundai,i20,5,Hatchback,1,Petrol,Manual,6,9.59,11,Bangalore
+59,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,55.42,90,Bangalore
+60,Mahindra,Thar Roxx,5,SUV,1,Petrol,Manual,3,16.52,65,Bangalore
+61,Hyundai,Alcazar,7,SUV,1,Petrol,Automatic,14,27.09,11,Bangalore
+62,Tata,Curvv,5,SUV,1,Diesel,Manual,5,19.61,8,Bangalore
+63,MG,Windsor EV,5,SUV,1,Electric,Automatic,,15.05,60,Bangalore
+64,Toyota,Fortuner,7,SUV,1,Petrol,Automatic,7,44.52,90,Bangalore
+65,Mahindra,Thar,4,SUV,1,Diesel,Manual,5,16.53,11,Bangalore
+66,Tata,Safari,7,SUV,1,Diesel,Manual,4,31.95,8,Bangalore
+67,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,5,12.15,60,Bangalore
+68,Nissan,Magnite,5,SUV,1,Petrol,Manual,2,7.49,11,Bangalore
+69,Tata,Curvv EV,5,SUV,1,Electric,Automatic,4,20.03,8,Bangalore
+70,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,16.32,11,Bangalore
+71,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,10.04,11,Bangalore
+72,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,10.00,11,Bangalore
+73,Tata,Tiago,5,Hatchback,1,Petrol,Manual,3,7.27,11,Bangalore
+74,Kia,Carens Clavis,7,SUV,1,Petrol,Manual,7,16.82,11,Bangalore
+75,Tata,Altroz,5,Hatchback,1,Petrol,Manual,5,9.52,11,Bangalore
+76,Tata,Tiago EV,5,Hatchback,1,Electric,Automatic,,8.66,11,Bangalore
+77,Kia,Syros,5,SUV,1,Petrol,Manual,8,10.81,11,Bangalore
+78,Tata,Tiago NRG,5,Hatchback,1,Petrol,Manual,4,9.09,11,Bangalore
+79,Tata,Tigor,5,Sedan,1,Petrol,Manual,2,9.21,11,Bangalore
+80,Mahindra,XUV700,7,,1,Petrol,Automatic,12,25.29,,Chandigarh
+81,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,6,7.35,,Chandigarh
+82,Tata,Nexon,5,SUV,1,Diesel,Manual,4,12.45,,Chandigarh
+83,Hyundai,Creta,5,SUV,1,Petrol,Manual,8,13.16,,Chandigarh
+84,Maruti Suzuki,XL6,6,SUV,1,CNG,Manual,7,15.12,,Chandigarh
+85,Maruti Suzuki,Invicto,8,,1,Petrol,Automatic,4,30.72,,Chandigarh
+86,Mahindra,Scorpio-N,7,,1,Diesel,Manual,5,21.92,,Chandigarh
+87,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,6,13.61,,Chandigarh
+88,Renault,Kwid,5,Hatchback,1,Petrol,Automatic,5,7.02,,Chandigarh
+89,Tata,Altroz (2020-2025),5,Hatchback,1,Petrol,Manual,7,10.37,,Chandigarh
+90,Toyota,Innova Hycross,8,,1,Petrol,Automatic,7,23.84,,Chandigarh
+91,Bentley,Bentayga,5,SUV,1,Petrol,Automatic,4,,,Chandigarh
+92,Hyundai,Exter,5,SUV,1,CNG,Manual,7,10.44,,Chandigarh
+93,Honda,City,5,Sedan,1,Petrol,Automatic,6,18.32,,Chandigarh
+94,Mercedes-Benz,AMG EQS,5,Sedan,,Electric,Automatic,5,,,Chandigarh
+95,Renault,Kiger,5,SUV,1,Petrol,Automatic,13,10.90,,Chandigarh
+96,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,6,8.94,,Chandigarh
+97,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,5,10.13,,Chandigarh
+98,MG,ZS EV,5,SUV,1,Electric,Automatic,4,26.76,,Chandigarh
+99,Hyundai,Tucson,5,SUV,1,Diesel,Automatic,7,43.00,,Chandigarh
+100,Skoda,Kylaq,5,SUV,1,Petrol,Manual,,13.55,,Chandigarh
+101,Tata,Punch,5,SUV,1,Petrol,Manual,,10.10,,Chandigarh
+102,Renault,Triber,7,,1,Petrol,Automatic,6,9.54,,Chandigarh
+103,Honda,Elevate,5,SUV,1,Petrol,Automatic,7,16.31,,Chandigarh
+104,Mahindra,Thar,4,SUV,1,Diesel,Manual,,19.53,,Chandigarh
+105,Mercedes-Benz,EQE SUV,5,SUV,,Electric,Automatic,9,,,Chandigarh
+106,Mercedes-Benz,EQS,5,Sedan,1,Electric,Automatic,5,,,Chandigarh
+107,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,7.07,,Chandigarh
+108,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,7,11.09,,Chandigarh
+109,MG,Hector,5,SUV,1,Petrol,Manual,3,19.38,,Chandigarh
+110,MG,Hector Plus,7,,1,Diesel,Manual,2,20.90,,Chandigarh
+111,Mercedes-Benz,G-Class,5,SUV,1,Diesel,Automatic,7,,,Chandigarh
+112,Toyota,Glanza,5,Hatchback,1,Petrol,Automatic,5,9.73,,Chandigarh
+113,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,5,15.25,,Chandigarh
+114,Maruti Suzuki,Ertiga,7,SUV,1,CNG,Manual,6,13.04,,Chandigarh
+115,Mercedes-Benz,GLA,5,SUV,1,Diesel,Automatic,5,69.45,,Chandigarh
+116,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Automatic,9,19.27,,Chandigarh
+117,Kia,Carens,7,,1,Petrol,Manual,7,14.31,,Chandigarh
+118,Kia,Carens Clavis,7,,1,Diesel,Manual,7,23.35,,Chandigarh
+119,Citroen,Aircross,7,,1,Petrol,Manual,4,14.38,,Chandigarh
+120,Maruti Suzuki,Brezza,5,SUV,1,CNG,Manual,5,11.34,,Chandigarh
+121,Tata,Altroz,5,Hatchback,1,Petrol,Automatic,5,11.75,,Chandigarh
+122,MG,Gloster,7,,1,Diesel,Automatic,4,48.28,,Chandigarh
+123,Maruti Suzuki,S-Presso,5,,1,CNG,Manual,6,7.21,,Chandigarh
+124,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Manual,6,6.95,,Chandigarh
+125,Hyundai,Grand i10 Nios,5,Hatchback,1,CNG,Manual,7,9.08,,Chandigarh
+126,Maruti Suzuki,Eeco,7,,1,Petrol,Manual,5,7.11,,Chandigarh
+127,Jeep,Compass,5,SUV,1,Diesel,Manual,7,34.01,,Chandigarh
+128,Hyundai,Aura,5,Sedan,1,Petrol,Manual,6,8.73,,Chandigarh
+129,Kia,Seltos,5,SUV,1,Diesel,Manual,7,17.13,,Chandigarh
+130,Tata,Tigor,5,Sedan,1,Petrol,Manual,5,9.44,,Chandigarh
+131,Hyundai,Venue,5,SUV,1,Petrol,Automatic,7,15.69,,Chandigarh
+132,Citroen,E-C3,5,SUV,1,Electric,Automatic,4,13.21,,Chandigarh
+133,Mercedes-Benz,GLB,7,SUV,1,Diesel,Automatic,5,85.68,,Chandigarh
+134,Mahindra,Scorpio Classic,9,,1,Diesel,Manual,3,16.69,,Chandigarh
+135,Kia,Syros,5,SUV,1,Diesel,Manual,8,15.13,,Chandigarh
+136,Toyota,Fortuner,7,SUV,1,Diesel,Manual,7,43.04,,Chandigarh
+137,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Automatic,7,11.13,,Chandigarh
+138,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,52.23,,Chandigarh
+139,Skoda,Kushaq,5,,1,Petrol,Manual,5,15.19,,Chandigarh
+140,Jeep,Meridian,7,,1,Diesel,Automatic,6,42.76,,Chandigarh
+141,Volkswagen,Taigun,5,,1,Petrol,Automatic,5,23.28,,Chandigarh
+142,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,18.29,,Chandigarh
+143,Kia,Sonet,5,SUV,1,Petrol,Manual,7,11.30,,Chandigarh
+144,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,12.94,,Chandigarh
+145,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Automatic,6,17.47,,Chandigarh
+146,Skoda,Slavia,5,Sedan,1,Petrol,Automatic,11,21.85,,Chandigarh
+147,Toyota,Innova Crysta,8,,1,Diesel,Manual,5,29.92,,Chandigarh
+148,Citroen,C5 Aircross,5,SUV,1,Diesel,Automatic,7,44.21,,Chandigarh
+149,Tata,Safari,7,,1,Diesel,Manual,,29.04,,Chandigarh
+150,Toyota,Rumion,7,SUV,1,Petrol,Automatic,5,16.22,,Chandigarh
+151,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,15.76,,Chandigarh
+152,Hyundai,i20,5,Hatchback,1,Petrol,Manual,8,11.04,,Chandigarh
+153,Mercedes-Benz,Maybach GLS,5,SUV,1,Petrol,Automatic,6,,,Chandigarh
+154,Mahindra,XUV 3XO,5,SUV,1,Petrol,Automatic,7,12.49,,Chandigarh
+155,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Automatic,7,13.20,,Chandigarh
+156,Tata,Harrier,5,SUV,1,Diesel,Automatic,2,23.93,,Chandigarh
+157,Mercedes-Benz,Maybach S-Class,5,Sedan,,Petrol,Automatic,8,,,Chandigarh
+158,Mercedes-Benz,S-Class,5,Sedan,1,Petrol,Automatic,4,,,Chandigarh
+159,MG,Astor,5,SUV,1,Petrol,Automatic,4,16.67,,Chandigarh
+160,Hyundai,Creta,5,SUV,1,Petrol,Manual,12,13.15,11,Ghaziabad
+161,Hyundai,Venue,5,SUV,1,Petrol,Manual,4,9.23,11,Ghaziabad
+162,Kia,Sonet,5,SUV,1,Petrol,Manual,7,9.85,11,Ghaziabad
+163,Kia,Syros,5,SUV,1,Petrol,Manual,8,10.74,11,Ghaziabad
+164,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,7.77,11,Ghaziabad
+165,Maruti Suzuki,Brezza,5,SUV,1,Petrol,Manual,7,11.35,11,Ghaziabad
+166,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,,13.25,11,Ghaziabad
+167,Mahindra,XUV700,7,SUV,1,Petrol,Manual,5,17.94,30,Ghaziabad
+168,Mahindra,Scorpio-N,7,SUV,1,Petrol,Manual,3,17.01,42,Ghaziabad
+169,Tata,Punch,5,SUV,1,Petrol,Manual,2,6.94,11,Ghaziabad
+170,Tata,Nexon,5,SUV,1,Petrol,Manual,2,9.19,11,Ghaziabad
+171,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,3,7.01,11,Ghaziabad
+172,Hyundai,Aura,5,Sedan,1,Petrol,Manual,6,8.60,11,Ghaziabad
+173,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,6.61,11,Ghaziabad
+174,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,4,7.42,11,Ghaziabad
+175,Tata,Altroz (2020-2025),5,Hatchback,1,Petrol,Manual,4,9.19,11,Ghaziabad
+176,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,6.22,11,Ghaziabad
+177,Renault,Triber,7,MUV,1,Petrol,Manual,2,7.12,11,Ghaziabad
+178,Renault,Kwid,5,Hatchback,1,Petrol,Manual,5,5.94,11,Ghaziabad
+179,Renault,Kiger,5,SUV,1,Petrol,Manual,5,7.10,11,Ghaziabad
+180,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,13.71,11,Ghaziabad
+181,Maruti Suzuki,Ertiga,7,SUV,1,CNG,Manual,6,12.83,70,Ghaziabad
+182,Toyota,Glanza,5,Hatchback,1,Petrol,Manual,5,11.27,8,Ghaziabad
+183,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Manual,7,13.38,11,Ghaziabad
+184,Honda,City,5,Sedan,1,Petrol,Manual,6,15.38,11,Ghaziabad
+185,Maruti Suzuki,Alto K10,5,Hatchback,1,Petrol,Manual,6,5.73,11,Ghaziabad
+186,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,5,16.29,11,Ghaziabad
+187,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,34.24,00,Ghaziabad
+188,Maruti Suzuki,Eeco,5,Van,1,Petrol,Manual,5,7.02,11,Ghaziabad
+189,Skoda,Kushaq,5,SUV,1,Petrol,Automatic,4,18.73,11,Ghaziabad
+190,Toyota,Rumion,7,SUV,1,Petrol,Manual,5,12.37,8,Ghaziabad
+191,Honda,Elevate,5,SUV,1,Petrol,Manual,7,14.63,11,Ghaziabad
+192,Hyundai,Exter,5,SUV,1,Petrol,Manual,,7.03,11,Ghaziabad
+193,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,8.63,11,Ghaziabad
+194,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,29.52,90,Ghaziabad
+195,Hyundai,Verna,5,Sedan,1,Petrol,Automatic,7,19.13,8,Ghaziabad
+196,Tata,Harrier,5,SUV,1,Diesel,Manual,2,22.11,11,Ghaziabad
+197,Toyota,Urban Cruiser Hyryder,5,SUV,1,Petrol,Manual,7,15.01,8,Ghaziabad
+198,Kia,Seltos,5,SUV,1,Petrol,Manual,7,13.32,11,Ghaziabad
+199,Kia,Carens,7,SUV,1,Petrol,Manual,7,13.50,11,Ghaziabad
+200,Toyota,Innova Crysta,8,SUV,1,Diesel,Manual,5,23.66,84,Ghaziabad
+201,Skoda,Slavia,5,Sedan,1,Petrol,Manual,4,16.08,11,Ghaziabad
+202,Mahindra,Thar Roxx,5,SUV,1,Petrol,Automatic,3,19.06,10,Ghaziabad
+203,Hyundai,Alcazar,7,SUV,1,Petrol,Manual,8,17.65,11,Ghaziabad
+204,MG,Gloster,6,SUV,1,Diesel,Automatic,,50.07,14,Ghaziabad
+205,Hyundai,IONIQ 5,5,SUV,,Electric,Automatic,3,52.77,60,Ghaziabad
+206,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,9.36,11,Ghaziabad
+207,Tata,Tigor,5,Sedan,1,Petrol,Manual,2,6.95,11,Ghaziabad
+208,Mahindra,Thar,4,SUV,1,Diesel,Manual,3,14.12,56,Ghaziabad
+209,Toyota,Fortuner,7,SUV,1,Petrol,Automatic,7,42.26,28,Ghaziabad
+210,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,13.69,21,Ghaziabad
+211,MG,Astor,5,SUV,1,Petrol,Manual,,17.80,14,Ghaziabad
+212,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,52.54,42,Ghaziabad
+213,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,5,11.74,30,Ghaziabad
+214,Maruti Suzuki,S-Presso,4,SUV,1,Petrol,Manual,7,5.99,11,Ghaziabad
+215,Tata,Tiago,5,Hatchback,1,Petrol,Manual,2,5.83,11,Ghaziabad
+216,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Manual,6,6.76,11,Ghaziabad
+217,Hyundai,i20,5,Hatchback,1,Petrol,Manual,6,9.05,11,Ghaziabad
+218,Volkswagen,Taigun,5,SUV,1,Petrol,Manual,6,13.89,21,Ghaziabad
+219,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,14.84,28,Ghaziabad
+220,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,9.64,11,Ghaziabad
+221,Mahindra,Bolero,7,SUV,1,Diesel,Manual,,11.75,30,Ghaziabad
+222,Maruti Suzuki,Dzire,5,Sedan,1,Petrol,Manual,6,7.85,11,Ghaziabad
+223,Hyundai,Creta N Line,5,SUV,1,Petrol,Automatic,6,21.65,11,Ghaziabad
+224,Hyundai,Creta Electric,5,SUV,1,Electric,Automatic,5,19.13,11,Ghaziabad
+225,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,18.02,30,Ghaziabad
+226,Nissan,Magnite,5,SUV,1,Petrol,Manual,2,7.19,11,Ghaziabad
+227,Tata,Safari,7,SUV,1,Diesel,Automatic,2,23.44,11,Ghaziabad
+228,Tata,Curvv,5,SUV,1,Diesel,Manual,2,13.44,11,Ghaziabad
+229,Mahindra,XUV 3XO,5,SUV,1,Diesel,Manual,7,11.81,28,Ghaziabad
+230,MG,ZS EV,5,SUV,1,Electric,Automatic,3,19.05,11,Ghaziabad
+231,Tata,Tiago NRG,5,Hatchback,1,Petrol,Manual,4,8.43,90,Ghaziabad
+232,MG,Hector Plus,7,SUV,1,Petrol,Automatic,4,23.55,11,Ghaziabad
+233,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,4,8.88,11,Ghaziabad
+234,MG,Windsor EV,5,SUV,,Electric,Automatic,6,18.32,45,Ghaziabad
+235,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,3,16.70,42,Ghaziabad
+236,Volkswagen,Tiguan R-Line,5,SUV,,Petrol,Automatic,6,56.77,20,Ghaziabad
+237,Tata,Altroz,5,Hatchback,1,Petrol,Manual,5,7.94,11,Ghaziabad
+238,Citroen,Aircross,5,SUV,1,Petrol,Manual,2,9.89,90,Ghaziabad
+239,Mahindra,BE 6,5,SUV,1,Electric,Automatic,8,21.07,84,Ghaziabad
+240,Tata,Nexon,5,SUV,1,Petrol,Manual,4,10.63,11,Hyderabad
+241,Tata,Punch,5,SUV,1,Petrol,Manual,2,7.52,11,Hyderabad
+242,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,7,8.60,11,Hyderabad
+243,Tata,Curvv EV,5,SUV,1,Electric,Automatic,4,21.23,11,Hyderabad
+244,Hyundai,Aura,5,Sedan,1,Petrol,Manual,6,8.95,11,Hyderabad
+245,Tata,Altroz (2020-2025),5,Hatchback,1,CNG,Manual,4,10.36,11,Hyderabad
+246,Hyundai,Venue,5,SUV,1,Petrol,Manual,5,10.05,11,Hyderabad
+247,Hyundai,Creta,5,SUV,1,Petrol,Manual,11,13.79,11,Hyderabad
+248,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Manual,8,13.97,11,Hyderabad
+249,Maruti Suzuki,Brezza,5,SUV,1,CNG,Manual,7,13.38,11,Hyderabad
+250,Honda,City,5,Sedan,1,Petrol,Manual,6,16.27,11,Hyderabad
+251,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,16.04,11,Hyderabad
+252,Maruti Suzuki,Ertiga,7,SUV,1,Petrol,Manual,6,10.90,20,Hyderabad
+253,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,14.98,11,Hyderabad
+254,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,,14.24,11,Hyderabad
+255,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,5,17.02,11,Hyderabad
+256,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,11.92,28,Hyderabad
+257,Mahindra,Scorpio-N,7,SUV,1,Diesel,Automatic,5,22.40,8,Hyderabad
+258,Mahindra,XUV700,7,SUV,1,Petrol,Automatic,11,26.71,8,Hyderabad
+259,Toyota,Urban Cruiser Hyryder,5,SUV,1,Petrol,Manual,7,13.95,11,Hyderabad
+260,Toyota,Glanza,5,Hatchback,1,Petrol,Manual,5,8.36,11,Hyderabad
+261,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,36.38,00,Hyderabad
+262,MG,ZS EV,5,SUV,1,Electric,Automatic,3,19.29,8,Hyderabad
+263,MG,Hector Plus,7,SUV,1,Diesel,Manual,2,21.55,8,Hyderabad
+264,MG,Hector,5,SUV,1,Petrol,Manual,3,20.83,8,Hyderabad
+265,MG,Gloster,7,SUV,1,Diesel,Automatic,4,50.43,21,Hyderabad
+266,MG,Comet EV,4,Hatchback,1,Electric,Automatic,5,10.50,8,Hyderabad
+267,MG,Astor,5,SUV,1,Petrol,Automatic,4,18.27,8,Hyderabad
+268,Kia,Sonet,5,SUV,1,Petrol,Manual,7,10.05,11,Hyderabad
+269,Kia,Seltos,5,SUV,1,Petrol,Manual,7,13.74,11,Hyderabad
+270,Kia,Carens,7,SUV,1,Petrol,Manual,7,13.98,11,Hyderabad
+271,Toyota,Rumion,7,SUV,1,Petrol,Manual,5,14.44,11,Hyderabad
+272,Skoda,Slavia,5,Sedan,1,Petrol,Manual,4,16.72,11,Hyderabad
+273,Skoda,Kushaq,5,SUV,1,Petrol,Manual,4,13.56,11,Hyderabad
+274,Honda,Elevate,5,SUV,1,Petrol,Manual,7,15.26,11,Hyderabad
+275,Hyundai,Exter,5,SUV,1,Petrol,Manual,,7.55,11,Hyderabad
+276,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,10.79,11,Hyderabad
+277,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,31.84,90,Hyderabad
+278,Toyota,Innova Crysta,8,SUV,1,Diesel,Manual,5,24.91,80,Hyderabad
+279,Toyota,Innova Hycross,7,SUV,1,Petrol,Automatic,7,24.95,40,Hyderabad
+280,Hyundai,Verna,5,Sedan,1,Petrol,Manual,7,16.28,11,Hyderabad
+281,Tata,Harrier,5,SUV,1,Diesel,Automatic,,28.21,11,Hyderabad
+282,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,3,17.36,56,Hyderabad
+283,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,18.93,11,Hyderabad
+284,Maruti Suzuki,Eeco,7,Van,1,Petrol,Manual,5,7.44,11,Hyderabad
+285,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,8.19,11,Hyderabad
+286,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Manual,6,7.25,11,Hyderabad
+287,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,7.34,11,Hyderabad
+288,Tata,Punch EV,5,SUV,1,Electric,Automatic,4,13.04,11,Hyderabad
+289,Hyundai,i20,5,Hatchback,1,Petrol,Manual,6,9.44,11,Hyderabad
+290,Mahindra,XUV 3XO,5,SUV,1,Petrol,Automatic,7,14.61,8,Hyderabad
+291,Maruti Suzuki,Alto K10,4,Hatchback,1,Petrol,Manual,6,5.20,28,Hyderabad
+292,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,54.57,80,Hyderabad
+293,Tata,Curvv,5,SUV,1,Petrol,Manual,4,13.90,11,Hyderabad
+294,Maruti Suzuki,S-Presso,4,SUV,1,Petrol,Manual,6,6.08,28,Hyderabad
+295,Hyundai,IONIQ 5,5,SUV,,Electric,Automatic,,49.07,60,Hyderabad
+296,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,4,7.96,11,Hyderabad
+297,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,15.84,00,Hyderabad
+298,Toyota,Fortuner,7,SUV,1,Petrol,Automatic,7,43.90,80,Hyderabad
+299,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,7.05,11,Hyderabad
+300,Hyundai,Creta N Line,5,SUV,1,Petrol,Automatic,6,25.49,11,Hyderabad
+301,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,4,9.29,11,Hyderabad
+302,Tata,Safari,6,SUV,1,Diesel,Manual,2,19.18,28,Hyderabad
+303,Mahindra,Thar,4,SUV,1,Petrol,Automatic,5,20.90,8,Hyderabad
+304,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,5,12.08,56,Hyderabad
+305,Skoda,Kodiaq,7,SUV,1,Petrol,Automatic,9,58.95,90,Hyderabad
+306,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,9.89,11,Hyderabad
+307,Kia,Carens Clavis,6,SUV,1,Petrol,Manual,7,15.36,11,Hyderabad
+308,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,9.79,11,Hyderabad
+309,Tata,Altroz,5,Hatchback,1,Petrol,Manual,5,9.22,11,Hyderabad
+310,Volkswagen,Taigun,5,SUV,1,Petrol,Manual,6,14.67,11,Hyderabad
+311,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,14.38,11,Hyderabad
+312,Tata,Tiago,5,Hatchback,1,Petrol,Manual,3,7.02,11,Hyderabad
+313,Kia,Syros,5,SUV,1,Petrol,Manual,8,11.20,11,Hyderabad
+314,Tata,Tiago EV,5,Hatchback,1,Electric,Automatic,6,10.75,11,Hyderabad
+315,Tata,Tiago NRG,5,Hatchback,1,Petrol,Manual,4,8.79,11,Hyderabad
+316,Mahindra,BE 6,5,SUV,1,Electric,Automatic,8,21.04,90,Hyderabad
+317,Tata,Tigor,5,Sedan,1,Petrol,Manual,2,8.87,11,Hyderabad
+318,Mahindra,XEV 9e,5,SUV,1,Electric,Automatic,7,24.07,90,Hyderabad
+319,Hyundai,Alcazar,6,SUV,1,Petrol,Automatic,11,26.54,11,Hyderabad
+320,Hyundai,Aura,5,Sedan,1,Petrol,Manual,6,8.74,,Jaipur
+321,Kia,Seltos,5,SUV,1,Diesel,Manual,7,17.69,,Jaipur
+322,Tata,Tigor,5,Sedan,1,Petrol,Manual,5,9.46,,Jaipur
+323,Hyundai,Venue,5,SUV,1,Petrol,Automatic,7,15.71,,Jaipur
+324,Citroen,E-C3,5,SUV,1,Electric,Automatic,4,12.97,,Jaipur
+325,Mercedes-Benz,GLB,7,SUV,1,Diesel,Automatic,5,82.14,,Jaipur
+326,Mahindra,Scorpio Classic,9,,1,Diesel,Manual,3,17.20,,Jaipur
+327,Kia,Syros,5,SUV,1,Diesel,Manual,8,15.63,,Jaipur
+328,Toyota,Fortuner,7,SUV,1,Diesel,Manual,7,43.60,,Jaipur
+329,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Automatic,7,10.67,,Jaipur
+330,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,52.90,,Jaipur
+331,Skoda,Kushaq,5,,1,Petrol,Manual,5,15.21,,Jaipur
+332,Jeep,Meridian,7,,1,Diesel,Automatic,6,41.82,,Jaipur
+333,Volkswagen,Taigun,5,,1,Petrol,Automatic,5,23.19,,Jaipur
+334,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,18.00,,Jaipur
+335,Kia,Sonet,5,SUV,1,Petrol,Manual,7,11.31,,Jaipur
+336,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,13.38,,Jaipur
+337,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Automatic,6,15.60,,Jaipur
+338,Skoda,Slavia,5,Sedan,1,Petrol,Automatic,11,21.77,,Jaipur
+339,Toyota,Innova Crysta,8,,1,Diesel,Manual,5,30.01,,Jaipur
+340,Citroen,C5 Aircross,5,SUV,1,Diesel,Automatic,7,44.78,,Jaipur
+341,Tata,Safari,7,,1,Diesel,Manual,,29.42,,Jaipur
+342,Toyota,Rumion,7,SUV,1,Petrol,Automatic,5,16.44,,Jaipur
+343,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,15.75,,Jaipur
+344,Hyundai,i20,5,Hatchback,1,Petrol,Manual,8,11.06,,Jaipur
+345,Mercedes-Benz,Maybach GLS,5,SUV,1,Petrol,Automatic,6,,,Jaipur
+346,Mahindra,XUV 3XO,5,SUV,1,Petrol,Automatic,7,12.51,,Jaipur
+347,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Automatic,7,13.22,,Jaipur
+348,Tata,Harrier,5,SUV,1,Diesel,Automatic,2,24.24,,Jaipur
+349,Mercedes-Benz,Maybach S-Class,5,Sedan,,Petrol,Automatic,8,,,Jaipur
+350,Mercedes-Benz,S-Class,5,Sedan,1,Petrol,Automatic,4,,,Jaipur
+351,MG,Astor,5,SUV,1,Petrol,Automatic,4,16.90,,Jaipur
+352,Tata,Nexon,5,SUV,1,Petrol,Automatic,6,14.03,8,Mumbai
+353,Tata,Punch,5,SUV,1,CNG,Manual,,11.81,8,Mumbai
+354,Hyundai,Creta,5,SUV,1,Petrol,Manual,10,13.34,11,Mumbai
+355,Hyundai,Venue,5,SUV,1,Petrol,Manual,5,11.01,11,Mumbai
+356,Mahindra,XUV700,7,SUV,1,Petrol,Manual,5,20.35,8,Mumbai
+357,Hyundai,Aura,5,Sedan,1,CNG,Manual,,8.69,11,Mumbai
+358,Mahindra,XUV 3XO,5,SUV,1,Diesel,Manual,8,18.22,8,Mumbai
+359,Tata,Tiago,5,Hatchback,1,Petrol,Manual,3,6.95,11,Mumbai
+360,Tata,Altroz (2020-2025),5,Hatchback,1,Petrol,Manual,2,8.09,8,Mumbai
+361,Maruti Suzuki,Brezza,5,SUV,1,Petrol,Manual,5,10.34,11,Mumbai
+362,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,8.07,11,Mumbai
+363,Maruti Suzuki,Swift,5,Hatchback,1,CNG,Manual,6,10.37,11,Mumbai
+364,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,7,8.18,11,Mumbai
+365,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,6.94,11,Mumbai
+366,Renault,Kiger,5,SUV,1,Petrol,Manual,5,8.92,11,Mumbai
+367,Toyota,Glanza,5,Hatchback,1,Petrol,Manual,5,9.23,11,Mumbai
+368,Renault,Triber,7,MUV,1,Petrol,Manual,5,8.32,11,Mumbai
+369,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,6.82,11,Mumbai
+370,Maruti Suzuki,Dzire,5,Sedan,1,Petrol,Manual,7,9.34,11,Mumbai
+371,Renault,Kwid,5,Hatchback,1,Petrol,Automatic,5,6.69,11,Mumbai
+372,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,14.26,11,Mumbai
+373,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,11.21,11,Mumbai
+374,Honda,City,5,Sedan,1,Petrol,Manual,6,15.99,11,Mumbai
+375,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Automatic,7,14.80,11,Mumbai
+376,Maruti Suzuki,Ertiga,7,SUV,1,CNG,Manual,6,12.83,84,Mumbai
+377,Mahindra,Scorpio-N,7,SUV,1,Petrol,Automatic,7,24.79,8,Mumbai
+378,Maruti Suzuki,Alto K10,5,Hatchback,1,Petrol,Automatic,7,6.89,11,Mumbai
+379,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,11.80,90,Mumbai
+380,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,17.28,8,Mumbai
+381,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,6,15.44,11,Mumbai
+382,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,,13.75,11,Mumbai
+383,Toyota,Urban Cruiser Hyryder,5,SUV,1,Petrol,Manual,7,13.59,11,Mumbai
+384,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,35.26,00,Mumbai
+385,MG,Gloster,6,SUV,1,Diesel,Automatic,4,50.26,30,Mumbai
+386,MG,Astor,5,SUV,1,Petrol,Manual,2,13.66,11,Mumbai
+387,Maruti Suzuki,Eeco,5,Van,1,Petrol,Manual,5,7.07,11,Mumbai
+388,Volkswagen,Taigun,5,SUV,1,Petrol,Automatic,6,18.90,11,Mumbai
+389,Kia,Carens,7,SUV,1,Petrol,Manual,7,13.87,11,Mumbai
+390,Toyota,Rumion,7,SUV,1,CNG,Manual,5,13.21,11,Mumbai
+391,Kia,Seltos,5,SUV,1,Petrol,Manual,7,13.59,11,Mumbai
+392,Hyundai,Exter,5,SUV,1,Petrol,Manual,,7.45,11,Mumbai
+393,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,9.00,11,Mumbai
+394,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,30.22,42,Mumbai
+395,Kia,Sonet,5,SUV,1,Petrol,Manual,7,10.22,11,Mumbai
+396,MG,Comet EV,4,Hatchback,1,Electric,Automatic,5,10.27,11,Mumbai
+397,Toyota,Innova Hycross,7,SUV,1,Petrol,Automatic,7,23.05,80,Mumbai
+398,Hyundai,Verna,5,Sedan,1,Petrol,Manual,7,15.75,11,Mumbai
+399,Tata,Harrier,5,SUV,1,Diesel,Manual,2,20.98,8,Mumbai
+400,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,3,16.93,11,Mumbai
+401,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,18.93,11,Mumbai
+402,MG,Hector,5,SUV,1,Petrol,Automatic,7,26.54,11,Mumbai
+403,MG,Hector Plus,7,SUV,1,Petrol,Automatic,7,27.49,11,Mumbai
+404,MG,ZS EV,5,SUV,1,Electric,Automatic,3,19.51,11,Mumbai
+405,Volkswagen,Virtus,5,Sedan,1,Petrol,Automatic,6,17.88,11,Mumbai
+406,Toyota,Innova Crysta,8,SUV,1,Diesel,Manual,5,24.23,26,Mumbai
+407,Skoda,Slavia,5,Sedan,1,Petrol,Automatic,4,17.55,11,Mumbai
+408,Skoda,Kushaq,5,SUV,1,Petrol,Automatic,4,16.25,11,Mumbai
+409,Honda,Elevate,5,SUV,1,Petrol,Automatic,7,18.46,11,Mumbai
+410,Maruti Suzuki,S-Presso,4,SUV,1,Petrol,Manual,6,5.92,28,Mumbai
+411,Hyundai,Creta N Line,5,SUV,1,Petrol,Manual,7,23.44,11,Mumbai
+412,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Automatic,10,9.49,11,Mumbai
+413,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,15.00,42,Mumbai
+414,Tata,Punch EV,5,SUV,1,Electric,Automatic,4,12.63,8,Mumbai
+415,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,5,10.17,11,Mumbai
+416,Hyundai,i20,5,Hatchback,1,Petrol,Manual,6,9.28,11,Mumbai
+417,Tata,Curvv EV,5,SUV,1,Electric,Automatic,5,22.48,8,Mumbai
+418,Mahindra,Thar Roxx,5,SUV,1,Petrol,Automatic,3,18.46,10,Mumbai
+419,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,5,11.98,28,Mumbai
+420,Hyundai,IONIQ 5,5,SUV,,Electric,Automatic,3,49.01,42,Mumbai
+421,Tata,Curvv,5,SUV,1,Petrol,Manual,5,16.96,8,Mumbai
+422,Tata,Safari,7,SUV,1,Diesel,Manual,4,28.91,8,Mumbai
+423,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,53.26,20,Mumbai
+424,Hyundai,Alcazar,7,SUV,1,Petrol,Automatic,9,25.66,11,Mumbai
+425,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,9.75,11,Mumbai
+426,MG,Windsor EV,5,SUV,1,Electric,Automatic,,15.39,56,Mumbai
+427,Toyota,Fortuner,7,SUV,1,Petrol,Automatic,7,42.42,70,Mumbai
+428,Mahindra,Thar,4,SUV,1,Diesel,Manual,5,16.20,11,Mumbai
+429,Tata,Tiago EV,5,Hatchback,1,Electric,Automatic,,8.46,11,Mumbai
+430,Tata,Tiago NRG,5,Hatchback,1,CNG,Manual,4,9.49,11,Mumbai
+431,Mahindra,XEV 9e,5,SUV,1,Electric,Automatic,7,30.62,20,Mumbai
+432,Hyundai,Creta,5,SUV,1,Petrol,Manual,12,13.15,11,Noida
+433,Hyundai,Venue,5,SUV,1,Petrol,Manual,4,9.23,11,Noida
+434,Kia,Sonet,5,SUV,1,Petrol,Manual,7,9.85,11,Noida
+435,Kia,Syros,5,SUV,1,Petrol,Manual,8,10.74,11,Noida
+436,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,7.77,11,Noida
+437,Maruti Suzuki,Brezza,5,SUV,1,Petrol,Manual,7,11.35,11,Noida
+438,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,,13.25,11,Noida
+439,Mahindra,XUV700,7,SUV,1,Petrol,Manual,5,17.94,30,Noida
+440,Mahindra,Scorpio-N,7,SUV,1,Petrol,Manual,3,17.01,42,Noida
+441,Tata,Punch,5,SUV,1,Petrol,Manual,2,6.94,11,Noida
+442,Tata,Nexon,5,SUV,1,Petrol,Manual,2,9.19,11,Noida
+443,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,3,7.01,11,Noida
+444,Hyundai,Aura,5,Sedan,1,Petrol,Manual,6,8.60,11,Noida
+445,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,6.61,11,Noida
+446,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,4,7.42,11,Noida
+447,Tata,Altroz (2020-2025),5,Hatchback,1,Petrol,Manual,4,9.19,11,Noida
+448,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,6.22,11,Noida
+449,Renault,Triber,7,MUV,1,Petrol,Manual,2,7.12,11,Noida
+450,Renault,Kwid,5,Hatchback,1,Petrol,Manual,5,5.94,11,Noida
+451,Renault,Kiger,5,SUV,1,Petrol,Manual,5,7.10,11,Noida
+452,Toyota,Glanza,5,Hatchback,1,Petrol,Manual,5,11.27,8,Noida
+453,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Manual,7,13.38,11,Noida
+454,Honda,City,5,Sedan,1,Petrol,Manual,6,15.38,11,Noida
+455,Maruti Suzuki,Alto K10,5,Hatchback,1,Petrol,Manual,6,5.73,11,Noida
+456,Hyundai,Venue N-Line,5,SUV,1,Petrol,Automatic,5,16.29,11,Noida
+457,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,34.24,00,Noida
+458,Maruti Suzuki,Eeco,5,Van,1,Petrol,Manual,5,7.02,11,Noida
+459,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,29.52,90,Noida
+460,Hyundai,Verna,5,Sedan,1,Petrol,Automatic,7,19.13,8,Noida
+461,Tata,Harrier,5,SUV,1,Diesel,Manual,2,22.11,11,Noida
+462,Hyundai,Exter,5,SUV,1,Petrol,Manual,,7.03,11,Noida
+463,Toyota,Rumion,7,SUV,1,Petrol,Manual,5,12.37,8,Noida
+464,Toyota,Innova Crysta,8,SUV,1,Diesel,Manual,5,23.66,84,Noida
+465,Kia,Seltos,5,SUV,1,Petrol,Manual,7,13.32,11,Noida
+466,Honda,Elevate,5,SUV,1,Petrol,Manual,7,14.63,11,Noida
+467,Kia,Carens,7,SUV,1,Petrol,Manual,7,13.50,11,Noida
+468,Toyota,Urban Cruiser Hyryder,5,SUV,1,Petrol,Manual,7,15.01,8,Noida
+469,Skoda,Slavia,5,Sedan,1,Petrol,Manual,4,16.08,11,Noida
+470,Skoda,Kushaq,5,SUV,1,Petrol,Automatic,4,18.73,11,Noida
+471,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,8.63,11,Noida
+472,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,3,16.70,42,Noida
+473,Mahindra,Thar Roxx,5,SUV,1,Petrol,Automatic,3,19.06,10,Noida
+474,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,14.84,28,Noida
+475,MG,Gloster,6,SUV,1,Diesel,Automatic,,50.07,14,Noida
+476,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,9.36,11,Noida
+477,Tata,Tigor,5,Sedan,1,Petrol,Manual,2,6.95,11,Noida
+478,Mahindra,Thar,4,SUV,1,Diesel,Manual,3,14.12,56,Noida
+479,Toyota,Fortuner,7,SUV,1,Petrol,Automatic,7,42.26,28,Noida
+480,Volkswagen,Virtus,5,Sedan,1,Petrol,Manual,7,13.69,21,Noida
+481,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,13.71,11,Noida
+482,Hyundai,i20,5,Hatchback,1,Petrol,Manual,6,9.05,11,Noida
+483,Volkswagen,Taigun,5,SUV,1,Petrol,Manual,6,13.89,21,Noida
+484,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,9.64,11,Noida
+485,Mahindra,Bolero,7,SUV,1,Diesel,Manual,,11.75,30,Noida
+486,Hyundai,Alcazar,7,SUV,1,Petrol,Manual,8,17.65,11,Noida
+487,Hyundai,IONIQ 5,5,SUV,,Electric,Automatic,3,52.31,60,Noida
+488,Toyota,Fortuner Legender,7,SUV,1,Diesel,Automatic,,52.54,42,Noida
+489,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,5,11.74,30,Noida
+490,Maruti Suzuki,S-Presso,4,SUV,1,Petrol,Manual,7,5.99,11,Noida
+491,Tata,Tiago,5,Hatchback,1,Petrol,Manual,2,5.83,11,Noida
+492,Maruti Suzuki,Dzire,5,Sedan,1,Petrol,Manual,6,7.85,11,Noida
+493,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Manual,6,6.76,11,Noida
+494,MG,Astor,5,SUV,1,Petrol,Manual,,17.80,14,Noida
+495,Hyundai,Creta N Line,5,SUV,1,Petrol,Automatic,6,21.65,11,Noida
+496,Hyundai,Creta Electric,5,SUV,1,Electric,Automatic,5,19.13,11,Noida
+497,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,18.02,30,Noida
+498,Nissan,Magnite,5,SUV,1,Petrol,Manual,2,7.19,11,Noida
+499,Tata,Safari,7,SUV,1,Diesel,Automatic,2,23.44,11,Noida
+500,Tata,Curvv,5,SUV,1,Diesel,Manual,2,13.44,11,Noida
+501,Mahindra,XUV 3XO,5,SUV,1,Diesel,Manual,7,11.81,28,Noida
+502,MG,ZS EV,5,SUV,1,Electric,Automatic,3,19.05,11,Noida
+503,Tata,Tiago NRG,5,Hatchback,1,Petrol,Manual,4,8.43,90,Noida
+504,Maruti Suzuki,Ertiga,7,SUV,1,CNG,Manual,6,12.83,70,Noida
+505,MG,Hector Plus,7,SUV,1,Petrol,Automatic,4,23.55,11,Noida
+506,Toyota,Urban Cruiser Taisor,5,SUV,1,Petrol,Manual,4,8.88,11,Noida
+507,MG,Windsor EV,5,SUV,,Electric,Automatic,6,18.32,45,Noida
+508,Volkswagen,Tiguan R-Line,5,SUV,,Petrol,Automatic,6,56.77,20,Noida
+509,Tata,Altroz,5,Hatchback,1,Petrol,Manual,5,7.94,11,Noida
+510,Citroen,Aircross,5,SUV,1,Petrol,Manual,2,9.83,90,Noida
+511,Mahindra,BE 6,5,SUV,1,Electric,Automatic,8,21.07,84,Noida
+512,Tata,Nexon,5,SUV,1,Petrol,Manual,2,9.46,11,Pune
+513,Tata,Punch,5,SUV,1,Petrol,Manual,2,7.48,11,Pune
+514,Hyundai,Creta,5,SUV,1,Petrol,Manual,10,13.30,11,Pune
+515,Hyundai,Venue,5,SUV,1,Petrol,Manual,4,9.42,11,Pune
+516,Hyundai,i20,5,Hatchback,1,Petrol,Manual,8,9.96,11,Pune
+517,Hyundai,Aura,5,Sedan,1,CNG,Manual,,8.67,11,Pune
+518,Honda,Amaze,5,Sedan,1,Petrol,Manual,6,9.57,11,Pune
+519,Tata,Tiago,5,Hatchback,1,Petrol,Manual,2,6.08,11,Pune
+520,Tata,Altroz (2020-2025),5,Hatchback,1,CNG,Manual,4,11.26,8,Pune
+521,Maruti Suzuki,Brezza,5,SUV,1,Petrol,Manual,5,10.34,30,Pune
+522,Maruti Suzuki,Baleno,5,Hatchback,1,Petrol,Manual,6,8.06,11,Pune
+523,Tata,Curvv EV,5,SUV,1,Electric,Automatic,4,21.41,11,Pune
+524,Hyundai,Grand i10 Nios,5,Hatchback,1,Petrol,Manual,3,7.15,11,Pune
+525,Honda,City,5,Sedan,1,Petrol,Automatic,6,18.37,11,Pune
+526,Maruti Suzuki,Ertiga,7,SUV,1,Petrol,Manual,6,10.68,60,Pune
+527,Renault,Kiger,5,SUV,1,Petrol,Manual,8,10.32,8,Pune
+528,Renault,Kwid,5,Hatchback,1,Petrol,Manual,5,6.57,8,Pune
+529,Hyundai,i20 N Line,5,Hatchback,1,Petrol,Manual,7,11.73,30,Pune
+530,Renault,Triber,7,MUV,1,Petrol,Automatic,5,9.57,20,Pune
+531,Tata,Nexon EV,5,SUV,1,Electric,Automatic,4,15.09,11,Pune
+532,Maruti Suzuki,Grand Vitara,5,SUV,1,Petrol,Manual,,13.75,11,Pune
+533,Hyundai,Venue N-Line,5,SUV,1,Petrol,Manual,5,14.52,90,Pune
+534,Hyundai,Tucson,5,SUV,1,Petrol,Automatic,5,35.13,30,Pune
+535,Maruti Suzuki,XL6,6,SUV,1,Petrol,Manual,6,14.25,11,Pune
+536,Maruti Suzuki,Eeco,5,Van,1,Petrol,Manual,5,7.19,11,Pune
+537,Maruti Suzuki,Wagon R,5,Hatchback,1,Petrol,Manual,3,6.79,11,Pune
+538,Skoda,Slavia,5,Sedan,1,Petrol,Manual,4,16.24,11,Pune
+539,Skoda,Kushaq,5,SUV,1,Petrol,Manual,4,17.77,11,Pune
+540,Honda,Elevate,5,SUV,1,Petrol,Automatic,7,18.22,11,Pune
+541,Hyundai,Exter,5,SUV,1,CNG,Manual,,8.62,11,Pune
+542,Maruti Suzuki,Fronx,5,SUV,1,Petrol,Manual,6,8.99,11,Pune
+543,Maruti Suzuki,Invicto,7,SUV,1,Petrol,Automatic,4,30.85,30,Pune
+544,Hyundai,Verna,5,Sedan,1,Petrol,Automatic,10,20.91,11,Pune
+545,Tata,Harrier,5,SUV,1,Diesel,Manual,2,19.33,11,Pune
+546,MG,Astor,5,SUV,1,Petrol,Manual,2,13.36,8,Pune
+547,Tata,Punch EV,5,SUV,1,Electric,Automatic,,12.13,11,Pune
+548,Tata,Safari,6,SUV,1,Diesel,Manual,2,20.01,11,Pune
+549,Maruti Suzuki,Alto K10,5,Hatchback,1,Petrol,Manual,7,6.68,11,Pune
+550,Tata,Curvv,5,SUV,1,Petrol,Automatic,4,16.17,8,Pune
+551,Maruti Suzuki,Ignis,5,Hatchback,1,Petrol,Manual,6,7.67,11,Pune
+552,MG,Hector,5,SUV,1,Petrol,Automatic,4,23.09,8,Pune
+553,Maruti Suzuki,Celerio,5,Hatchback,1,Petrol,Manual,6,7.24,11,Pune
+554,Hyundai,IONIQ 5,5,SUV,,Electric,Automatic,3,52.14,30,Pune
+555,MG,ZS EV,5,SUV,1,Electric,Automatic,4,19.77,11,Pune
+556,Maruti Suzuki,S-Presso,4,SUV,1,Petrol,Automatic,7,7.24,11,Pune
+557,MG,Hector Plus,7,SUV,1,Petrol,Manual,7,25.68,8,Pune
+558,Maruti Suzuki,Swift,5,Hatchback,1,Petrol,Manual,4,7.80,11,Pune
+559,MG,Comet EV,4,Hatchback,1,Electric,Automatic,3,9.35,11,Pune
+560,Maruti Suzuki,Jimny,4,SUV,1,Petrol,Manual,5,15.31,11,Pune
+561,MG,Gloster,6,SUV,1,Diesel,Automatic,4,49.65,30,Pune
+562,Hyundai,Creta N Line,5,SUV,1,Petrol,Manual,6,20.15,20,Pune
+563,Mahindra,XUV400,5,SUV,1,Electric,Automatic,10,17.52,45,Pune
+564,Mahindra,XUV 3XO,5,SUV,1,Petrol,Manual,3,9.31,11,Pune
+565,Hyundai,Alcazar,7,SUV,1,Petrol,Automatic,10,26.03,11,Pune
+566,Tata,Tiago EV,5,Hatchback,1,Electric,Automatic,6,9.58,11,Pune
+567,Tata,Tiago NRG,5,Hatchback,1,Petrol,Manual,4,8.64,11,Pune
+568,Mahindra,Bolero,7,SUV,1,Diesel,Manual,2,11.60,60,Pune
+569,Mahindra,XEV 9e,5,SUV,1,Electric,Automatic,7,24.41,20,Pune
+570,Skoda,Kylaq,5,SUV,1,Petrol,Manual,3,9.68,11,Pune
+571,Mahindra,Thar Roxx,5,SUV,1,Petrol,Manual,3,15.47,80,Pune
+572,Kia,Carens,7,SUV,1,Petrol,Manual,7,13.46,11,Pune
+573,Mahindra,BE 6,5,SUV,1,Electric,Automatic,8,21.23,20,Pune
+574,MG,Windsor EV,5,SUV,1,Electric,Automatic,,15.06,60,Pune
+575,Mahindra,Scorpio Classic,7,SUV,1,Diesel,Manual,3,16.64,45,Pune
+576,Mahindra,XUV700,7,SUV,1,Petrol,Manual,5,21.68,11,Pune
+577,Kia,Seltos,5,SUV,1,Petrol,Manual,7,13.23,11,Pune
+578,Maruti Suzuki,Dzire,5,Sedan,1,Petrol,Manual,7,9.33,11,Pune
+579,Mahindra,Thar,4,SUV,1,Diesel,Manual,5,15.93,11,Pune
+580,Mahindra,Scorpio-N,7,SUV,1,Petrol,Automatic,6,22.52,11,Pune
+581,Kia,Sonet,5,SUV,1,Petrol,Manual,7,9.34,11,Pune
+582,Tata,Tigor,5,Sedan,1,Petrol,Manual,2,7.19,11,Pune
+583,Kia,Syros,5,SUV,1,Petrol,Manual,8,10.98,11,Pune
+584,Hyundai,Creta Electric,5,SUV,1,Electric,Automatic,10,26.26,11,Pune
+585,Skoda,Kodiaq,7,SUV,1,Petrol,Automatic,9,56.24,30,Pune
+586,Tata,Altroz,5,Hatchback,1,Petrol,Manual,5,9.22,11,Pune
+587,Kia,Carens Clavis,6,SUV,1,Petrol,Manual,7,13.57,11,Pune
+588,Mahindra,Bolero Neo,7,SUV,1,Diesel,Manual,6,14.15,,Pune
+589,Toyota,Innova Hycross,8,,1,Petrol,Automatic,7,23.87,,Pune
+590,Bentley,Bentayga,5,SUV,1,Petrol,Automatic,4,,,Pune
+591,Mercedes-Benz,AMG EQS,5,Sedan,,Electric,Automatic,5,,,Pune
